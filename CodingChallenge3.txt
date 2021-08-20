@@ -1,0 +1,3 @@
+Coding Challenge #3
+
+One thing that I would change about Java is make it more lightweight.
